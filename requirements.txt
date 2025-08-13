@@ -1,0 +1,6 @@
+# Code Shelf Library Management System Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+python>=3.6
