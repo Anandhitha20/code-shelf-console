@@ -72,7 +72,7 @@ Code Shelf is a console-based Library Management System that efficiently maintai
 ```bash
 # If using git
 git clone <repository-url>
-cd codeshelf-console
+cd code-shelf-console
 
 # Or simply download the files
 ```
